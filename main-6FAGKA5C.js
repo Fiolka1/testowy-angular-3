@@ -14,4 +14,4 @@ twoja
 stara
 to
 fujara
-ez `))},dependencies:[$a,nh]});let e=t;return e})();mf(rh,th).catch(e=>console.error(e));
+ez `))},dependencies:[$a,nh],styles:["body[_ngcontent-%COMP%]{background-color:#00f}"]});let e=t;return e})();mf(rh,th).catch(e=>console.error(e));
